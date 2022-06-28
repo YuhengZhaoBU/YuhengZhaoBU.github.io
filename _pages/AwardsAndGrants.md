@@ -23,4 +23,4 @@ author_profile: true
 
 **Best Paper Award**, Annual Conference of Chinese Economic Training Bases, 2015
 
-**China National Scholarship for Undergraduate Students*** 2014
+**China National Scholarship for Undergraduate Students** 2014
