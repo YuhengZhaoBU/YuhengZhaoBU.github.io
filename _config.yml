@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ziwei Ye"
+name                     : &name "Yuheng Zhao"
 description              : &description "personal description"
 url                      : https://yuhengzhaobu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziwei Ye (叶紫薇)"
+  name             : "Yuheng Zhao (赵宇恒)"
   avatar           : "jm_photo_small_cook.jpg"
   bio              : "Ph.D. Candidate" 
   location         : 
-  employer         : "Michigan State University"
+  employer         : "Boston University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=NoPvqg8AAAAJ"
-  email            : "yeziwei@msu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Ziwei-Ye-8"
+  googlescholar    :
+  email            : "zhaoyh@bu.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
