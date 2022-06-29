@@ -11,7 +11,7 @@ author_profile: true
    Global China Research Colloquium, Boston University* 2021    
    Fiscal Affair Department Seminar Series, IMF* 2021      
    North East Universities Development Consortium (NEUDC), Dartmouth College 2020    
-   The Chinese Economists Society North America Conference, MIT 2020        
+   Chinese Economists Society North America Conference, MIT 2020        
    World Economic History Congress, MIT 2018    
    Eastern Economic Association Annual Conference, Boston 2018      
    International Workshop on Economic Analysis of Institutions, Xiamen University 2017    
