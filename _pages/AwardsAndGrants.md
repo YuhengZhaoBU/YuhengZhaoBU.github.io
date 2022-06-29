@@ -17,10 +17,4 @@ author_profile: true
 
 **Dean’s Fellowship**, Boston University 2017-2022
 
-**Yenching Scholar**, Peking University 2015-2017
 
-**China National Scholarship for Graduate Students** 2016
-
-**Best Paper Award**, Annual Conference of Chinese Economic Training Bases, 2015
-
-**China National Scholarship for Undergraduate Students** 2014
