@@ -34,35 +34,21 @@ author_profile: true
 # Conference and Sminar Presentations 
    (* if presented by coauthors)
 
-  100 Years of Economic Development, Cornell University 2022
-  
+  100 Years of Economic Development, Cornell University 2022 
   Society of the Economics of the Household Annual Meeting (poster session), Boston University 2021
-  
   Previewing Education Research Questions Seminar, Boston University 2021
-  
   Global China Research Colloquium, Boston University* 2021
-  
   Fiscal Affair Department Seminar Series, IMF* 2021
-  
   North East Universities Development Consortium (NEUDC), Dartmouth College 2020
-  
   The Chinese Economists Society North America Conference, MIT 2020
-  
   Micro Graduate Workshop, Boston University 2019
-  
   World Economic History Congress, MIT 2018
-  
   Eastern Economic Association Annual Conference, Boston 2018
-  
   International Workshop on Economic Analysis of Institutions, Xiamen University 2017
-  
   Asian Historical Economics Conference, Seoul National University 2016
-  
   Intuitions, Reforms and Economic Development International Symposium, Peking University 2015
-  
   Annual Conference of National Economic Training Bases, Peking University  2015
-  
   International Symposium on Quantitative History, Peking University 2015
-  
   China Meeting of Econometric Society, Xiamen University 2014
 
+&nbsp;
