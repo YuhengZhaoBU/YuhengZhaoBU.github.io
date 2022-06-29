@@ -32,8 +32,8 @@ author_profile: true
  
  
 # Conference and Sminar Presentations 
-   Research Assistant for David Lagakos, Boston University 2022   
-   Research Assistant for Siddharth George, Boston University 2020-2021     (* if presented by coauthors)
+   100 Years of Economic Development, Cornell University 2022   
+   Society of the Economics of the Household Annual Meeting (poster session), Boston University 2021     (* if presented by coauthors)
 
    100 Years of Economic Development, Cornell University 2022 
    Society of the Economics of the Household Annual Meeting (poster session), Boston University 2021
