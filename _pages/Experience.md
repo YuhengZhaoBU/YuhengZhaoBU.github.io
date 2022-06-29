@@ -24,7 +24,7 @@ author_profile: true
   
 # Academic Services 
   RA-Mentor Program, Mentor 2021-2022   
-  [NEUDC](https://sites.google.com/view/neudc2021)**, Communication committee 2021     
+  [NEUDC](https://sites.google.com/view/neudc2021), Communication committee 2021     
   [ThReD](http://thred.devecon.org/), Student coordinator 2020-2021   
   Georgetown-UBC-BU Brownbag in Development and Political Econom, Co-fonder 2020   
   Development Reading Group, Co-organizer 2019-2021   
