@@ -5,32 +5,42 @@ permalink: /Experience/
 author_profile: true
 ---
 
-# Education
-   **Michigan State University**, Ph.D. candidate, dual major in *Economics* and *Agricultural,Food, and Resource Economics* (2017-2022 expected).    
-   **Zhejiang University**, B.S., *Agricultural Economics and Management* (2013-2017).      
-     &nbsp;&nbsp;-exchange program: University of Groningen, the Netherlands      
-     &nbsp;&nbsp;-short-term program: Purdue University, United States       
-     &nbsp;&nbsp;-short-term program: University of Hong Kong, China       
-     &nbsp;&nbsp;-short-term program: The Hong Kong Polytechnic University, China      
-
+# Research Experience
+   Research Assistant for David Lagakos, Boston University 2022   
+   Research Assistant for Siddharth George, Boston University 2020-2021  
+   Research Assistant for Linh T. Tˆo, Boston University 2019   
+   Research Assistant for Zhiwu Chen, Peking University 2015-2016   
+   Research Assistant for Jianbo Zhou, Peking University 2012-2015 
 
 &nbsp;
 
 
-# Work 
-  **World Bank**, Development Research Group. *Consultant* (2020-present).      
-  **Michigan State University**, Department of Agricultural, Food, and Resource Economics. *Research assistant* (2017-present).
- 
+# Academic Services 
+  **RA-Mentor Program**, Mentor 2021-2022
+  **[NEUDC](https://sites.google.com/view/neudc2021)**, Communication committee 2021      
+  **[ThReD](http://thred.devecon.org/)**, Student coordinator 2020-2021
+  **Georgetown-UBC-BU Brownbag in Development and Political Econom**, Co-fonder 2020
+  **Development Reading Group**, Co-organizer 2019-2021
+  **PhD Mentor-Mentee Program**, Mentor 2018-2019
  
 &nbsp;
  
  
-# Teaching 
-  **Applied Microeconomics I** (AFRE900A), *Guest Lecturer* (2021)     
-  This lecture introduced the Equilibrium Displacement Model with a real-world example to illustrate the modeling and calibration process.
+# Conference and Sminar Presentations (* if presented by coauthors)
+  100 Years of Economic Development, Cornell University 2022
+  Society of the Economics of the Household Annual Meeting (poster session), Boston University 2021
+  Previewing Education Research Questions Seminar, Boston University 2021
+  Global China Research Colloquium, Boston University* 2021
+  Fiscal Affair Department Seminar Series, IMF* 2021
+  North East Universities Development Consortium (NEUDC), Dartmouth College 2020
+  The Chinese Economists Society North America Conference, MIT 2020
+  Micro Graduate Workshop, Boston University 2019
+  World Economic History Congress, MIT 2018
+  Eastern Economic Association Annual Conference, Boston 2018
+  International Workshop on Economic Analysis of Institutions, Xiamen University 2017
+  Asian Historical Economics Conference, Seoul National University 2016
+  Intuitions, Reforms and Economic Development International Symposium, Peking University 2015
+  Annual Conference of National Economic Training Bases, Peking University  2015
+  International Symposium on Quantitative History, Peking University 2015
+  China Meeting of Econometric Society, Xiamen University 2014
 
-&nbsp;
- 
- 
-# Referee service 
-  Food Policy
