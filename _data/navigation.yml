@@ -3,15 +3,15 @@ main:
 
   - title: "Research"
     url: /Research/
-    
-  - title: "Teaching"
-    url: /Teaching/ 
-    
+
   - title: "Awards and grants"
     url: /AwardsAndGrants/ 
   
   - title: "Experience"
     url: /Experience/ 
+       
+  - title: "Teaching"
+    url: /Teaching/ 
     
   - title: "CV"
     url: /CV/
