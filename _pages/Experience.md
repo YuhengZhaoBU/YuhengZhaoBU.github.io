@@ -31,7 +31,9 @@ author_profile: true
 &nbsp;
  
  
-# Conference and Sminar Presentations (* if presented by coauthors)
+# Conference and Sminar Presentations 
+   (* if presented by coauthors)
+
   100 Years of Economic Development, Cornell University 2022
   
   Society of the Economics of the Household Annual Meeting (poster session), Boston University 2021
