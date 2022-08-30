@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Ph.D candidate in Economics at Boston University working broadly at the intersection of development economics, labor economics, and economic history. My work focuses on understanding the institutional determinants of inequalities and resource (mis)allocation from both a current and an historical perspective.
+I am an Ph.D candidate in Economics at Boston University working broadly at the intersection of development economics, labor economics, and economic history.
 
 Prior to enrolling at BU, I received a Bachelor of Arts degree in Economics (2015) and a Master of Arts degree in Economics (2017) from Peking University. 
 
