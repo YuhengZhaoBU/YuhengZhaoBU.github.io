@@ -7,9 +7,8 @@ author_profile: true
 # Working Papers
 **[1. The Long-term and Distributional Effects of School Consolidations: Evidence from China”](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:51ac993e-3568-3e98-88d5-5aa404686ec0)**.    
 
-**[2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d6779a13-147b-387e-be06-33c1e1d51f59)**.      
+**[2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:b6cfe46b-38d7-3030-9af3-5ec676c820cd)**.      
 &nbsp;
-
 
 
 # Work in Progress
