@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in Economics at Boston University working broadly at the intersection of development economics and labor economics.
+I am a PhD candidate in Economics at Boston University working broadly at the intersection of development economics, labor economics and economic history.
 
 Prior to enrolling at BU, I received a Bachelor of Arts degree in Economics (2015) and a Master of Arts degree in Economics (2017) from Peking University. 
 
