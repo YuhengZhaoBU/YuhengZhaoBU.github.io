@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am an Ph.D candidate in Economics at Boston University working broadly at the intersection of development economics, labor economics, and economic history.
+I am a PhD candidate in Economics at Boston University working broadly at the intersection of development economics and labor economics.
 
 Prior to enrolling at BU, I received a Bachelor of Arts degree in Economics (2015) and a Master of Arts degree in Economics (2017) from Peking University. 
 
-I am on the job market this year and available for interviews during the 2022-2023 AEA & ASSA Annual Meeting.
+I am on the job market this year and available for interviews during the 2022-2023 ASSA Annual Meeting.
