@@ -5,9 +5,9 @@ permalink: /Research/
 author_profile: true
 ---
 # Working Papers
-**[1. The Long-term and Distributional Effects of School Consolidations: Evidence from China”](https://www.dropbox.com/s/64yb79ltvs03r10/Paper 1 %28JMP%29_The Long-term and Distributional Effects of School Consolidations.pdf?dl=0)**.    
+**1. The Long-term and Distributional Effects of School Consolidations: Evidence from China**.    
 
-**[2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform](https://www.dropbox.com/s/lhr55w9iyc7opdo/Paper 2_Government Brain Drain_Chinese Public Sector Hiring Reform.pdf?dl=0)**.      
+**2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform**.      
 &nbsp;
 
 
@@ -18,6 +18,8 @@ author_profile: true
 
 **3. Gender Disparities in the Gig Economy: Evidence from 16 million Order-level Data of Chinese Ride-sharing Platforms**. with Wenyu Zhou     
 
-**4. The Birthday Effect on Labor Supply: Evidence from the Ride-hailing Industry**. with Yanan Jia, Wenyu Zhou, and Simon Hu 
+**4. Ex-ante Political Participation and the Heterogeneous Treatment Effects on Long-run Impacts of Gender Quota in India**.
 
 **5. The Afterglow of the Empire: A discussion on Great Divergence from Administrative Distance and Food Trade inside China**.
+
+**6. Minority in the Classroom**.
