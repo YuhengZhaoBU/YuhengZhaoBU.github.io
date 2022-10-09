@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 # Conference Presentations 
-100 Years of Economic Development, Ithaca, NY, 2022
-IMF Fiscal Affairs Department Seminar Series, Washington, DC, 2021 (by coauthor)
-Global China Research Colloquium, Boston, MA, 2021 (by coauthor) 
-North East Universities Development Consortium Conference, Hanover, NH, 2020
-The Chinese Economists Society North America Conference, Boston, MA, 2020
-World Economic History Congress, Boston, MA, 2018
-Eastern Economic Association Annual Conference, Boston, MA, 2018
-Asian Historical Economics Conference, Seoul, South Korea, 2016
-Intuitions, Reforms, and Economic Development International Symposium, Beijing, CHN, 2015        
+100 Years of Economic Development, Ithaca, NY, 2022  
+IMF Fiscal Affairs Department Seminar Series, Washington, DC, 2021 (by coauthor)  
+Global China Research Colloquium, Boston, MA, 2021 (by coauthor)   
+North East Universities Development Consortium Conference, Hanover, NH, 2020  
+The Chinese Economists Society North America Conference, Boston, MA, 2020  
+World Economic History Congress, Boston, MA, 2018  
+Eastern Economic Association Annual Conference, Boston, MA, 2018  
+Asian Historical Economics Conference, Seoul, South Korea, 2016  
+Intuitions, Reforms, and Economic Development International Symposium, Beijing, CHN, 2015          
   
   
 # Academic Services 
