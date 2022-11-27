@@ -13,7 +13,7 @@ This paper investigates the allocative consequences of school consolidation, a g
 (Job Market Paper 2)      
 This paper provides reduced form causal evidence on how talent reallocation from the public sector contributed to entrepreneurship and innovation, in a unique Chinese public sector reform in 1994. The reform terminated guaranteed public sector job allocation for tertiary graduates, greatly reducing labor mobility costs across sectors. To alleviate the endogeneity that regions with more tertiary graduates were also more exposed to other reforms, I construct a novel dataset of the tertiary graduate number in different majors across prefectures and pair it with administrative data of firm entry in particular industries. I use three different identification strategies to study the causal impacts of this reform: DID, Regression-Discontinuity Design (RDD), and Difference-in-Regression-Discontinuity (DRD). I find that after the reform, tertiary graduate earnings decreased, and more tertiary graduates worked in the private sector or became entrepreneurs. The resulting talent reallocation led to a boom in the private sector. After the reform, prefectures with more tertiary students who graduated from industry-related majors experienced greater entry of private firms in those industries. The reform also stimulated market-oriented innovation activities such as market design patents and trademarks.
 
-&nbsp;
+
 
 # Work in Progress
 **1. Fiscal Decentralization and Resource Misallocation: Evidence from China**. with Marialuz Moreno Badia and W. Raphael Lam (Draft coming soon)           
