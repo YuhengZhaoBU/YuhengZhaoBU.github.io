@@ -17,7 +17,6 @@ This paper provides reduced form causal evidence on how talent reallocation from
 
 # Work in Progress
 **1. Fiscal Decentralization and Resource Misallocation: Evidence from China**. with Marialuz Moreno Badia and W. Raphael Lam (Draft coming soon)  
-
 Can fiscal decentralization and associated regional disparities explain resource misallocation in China? Using a sample of over 300,000 manufacturing firms for the period 1998-2007, we quantify the extent of misallocation and find that vertical imbalance is correlated with a wide efficiency dispersion across provinces. To alleviate potential endogeneity caused by reverse causality and omitting variables, we instrument the funding gap of local government by the product of each province's average share in national transfer and the total net transfer in a given year. Empirical estimates suggest that higher vertical imbalances led to larger across-province differences. The channels appear to be related to a lack of local government funding resulting in financial constraints at the firm level and a larger distortion in the land market.
 
 **2. Non-local Bureaucrats and State Capacity: Southbound Officials in China**.          
