@@ -9,11 +9,18 @@ author_profile: true
 **(Job Market Paper 1, under review)**    
 This paper investigates the allocative consequences of school consolidation, a globally pervasive phenomenon in response to the demographic transition. Rural out-migration and fertility decline during the process of development motivates policymakers in developing countries to close schools in remote and less populated rural areas. I study the impacts of the largest primary school consolidation ever implemented, using the China Health and Nutrition Survey between 1989 and 2015. Employing a generalized Difference-in-Difference (DID) framework that is robust to the heterogeneous treatment effects, I find that school consolidations increased females’ education but not males’ education. In contrast, treated individuals of both genders had higher earnings. I provide suggestive evidence consistent with the mechanisms of enhanced labor market proximity and gender equity after school consolidations. The analysis of the distributional effects indicates that individuals in the middle part of income distribution benefited more from school consolidations, and the increase in inequality was relatively small compared to the efficiency increase. My paper is the first to provide a comprehensive analysis of the distributional effects which is critical to policy evaluation. The trade-offs initiated by the school consolidations analyzed in this paper could apply to many other contexts. 
 
+<p align="center">
+  <br/><img src='/images/JMP 1 figure.png' width="750"/>
+</p>
+
+
 [**2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform**.](https://github.com/YuhengZhaoBU/YuhengZhaoBU.github.io/blob/master/files/JMP 2_Yuheng ZHAO_Updated.pdf) 
 **(Job Market Paper 2)**      
 This paper provides reduced form causal evidence on how talent reallocation from the public sector contributed to entrepreneurship and innovation, in a unique Chinese public sector reform in 1994. The reform terminated guaranteed public sector job allocation for tertiary graduates, greatly reducing labor mobility costs across sectors. To alleviate the endogeneity that regions with more tertiary graduates were also more exposed to other reforms, I construct a novel dataset of the tertiary graduate number in different majors across prefectures and pair it with administrative data of firm entry in particular industries. I use three different identification strategies to study the causal impacts of this reform: DID, Regression-Discontinuity Design (RDD), and Difference-in-Regression-Discontinuity (DRD). I find that after the reform, tertiary graduate earnings decreased, and more tertiary graduates worked in the private sector or became entrepreneurs. The resulting talent reallocation led to a boom in the private sector. After the reform, prefectures with more tertiary students who graduated from industry-related majors experienced greater entry of private firms in those industries. The reform also stimulated market-oriented innovation activities such as market design patents and trademarks.
 
-
+<p align="center">
+  <br/><img src='/images/JMP 2 figure.png' width="750"/>
+</p>
 
 # Work in Progress
 **1. Fiscal Decentralization and Resource Misallocation: Evidence from China**. with Marialuz Moreno Badia and W. Raphael Lam (Draft coming soon)  
@@ -31,4 +38,4 @@ I study heterogeneous treatment effects of the gender quota in Indian local gove
 **5. From Market to Government: An inquiry into Shanghai Banking System in the 1930s from a Social Network Approach**. with Youngwei Chen   
 We investigate the influence of the network structure on bank behavior and performance by constructing an “Interlocking Directorate (ID)” network of Shanghai banks in the 1930s with data from “Almanac of China's Banking”. The importance of a bank node in the ID network and its closeness to the central bank is related to its risk-taking ability and therefore affects its behavior. The free bank system in China fell into government control in 1935 after the financial crisis of silver outflow caused by the Silver Purchase Act. Those banks that were important in the network or close to the central bank in the network tend to have a higher bond asset ratio. But after 1935, the effect of the importance in the network is weakened while that of the closeness to the central bank is strengthened. Both being important in the network and close to the central bank increases a bank’s profit rate, but after 1935, the former effect is weakened, while the latter effect is strengthened. For the next step, we plan to investigate whether banks sought political support by appointing more directors with political backgrounds after 1935.
 
-**6. Minority in the Classroom**.   
+ 
