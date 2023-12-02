@@ -6,10 +6,10 @@ author_profile: true
 ---
 # Working Papers
 **1. The Long-term and Distributional Effects of School Consolidations: Evidence from China**.
-**(Job Market Paper 1, under review)**    
 
-**2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform**.
-**(Job Market Paper 2)**      
+
+**2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform**.     
+
 
 # Work in Progress
 **1. Fiscal Decentralization and Resource Misallocation: Evidence from China**. with Marialuz Moreno Badia and W. Raphael Lam (Draft coming soon)  
