@@ -8,19 +8,8 @@ author_profile: true
 **1. The Long-term and Distributional Effects of School Consolidations: Evidence from China**.
 **(Job Market Paper 1, under review)**    
 
-
-<p align="center">
-  <br/><img src='/images/JMP 1 figure.png' width="750"/>
-</p>
-
-
 **2. Government Brain Drain: Earning, Firm Entry, and Talent Reallocation in Chinese Public Sector Hiring Reform**.
 **(Job Market Paper 2)**      
-
-
-<p align="center">
-  <br/><img src='/images/JMP 2 figure.png' width="750"/>
-</p>
 
 # Work in Progress
 **1. Fiscal Decentralization and Resource Misallocation: Evidence from China**. with Marialuz Moreno Badia and W. Raphael Lam (Draft coming soon)  
